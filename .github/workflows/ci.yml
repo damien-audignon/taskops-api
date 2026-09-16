@@ -55,8 +55,6 @@ jobs:
             target/surefire-reports/ 
             target/site/jacoco/ 
           retention-days: 7 
-
-
 quality: 
     name: Analyse qualite 
     runs-on: ubuntu-latest 
